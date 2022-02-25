@@ -166,6 +166,7 @@ p{
     justify-content: space-between;
     margin-top: -19px;
     align-items: center;
+    border-bottom: 1px solid lightgray;
 }
 
 .follow-up{
